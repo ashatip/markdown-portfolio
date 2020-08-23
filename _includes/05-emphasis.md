@@ -1,5 +1,4 @@
 1. __Python__
 1. *R*
-___1. SQL
-hi
-___
+1. ___SQL___
+1. others
